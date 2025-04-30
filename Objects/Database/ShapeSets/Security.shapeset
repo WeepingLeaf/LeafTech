@@ -1,0 +1,22 @@
+{
+   "partList" : [
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "FFFFFF",
+         "name" : "CreationProtector_LF",
+         "physicsMaterial" : "Default",
+         "renderable" : "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_logicgate.rend",
+         "rotationSet" : "Default",
+         "scripted" : {
+            "classname" : "CreationProtector_LF",
+            "filename" : "$MOD_DATA/Scripts/Security/CreationProtector_LF.lua"
+         },
+         "showInInventory" : true,
+         "uuid" : "fec1c24f-b8a6-4885-a87b-821e619f0dc4"
+      }
+   ]
+}

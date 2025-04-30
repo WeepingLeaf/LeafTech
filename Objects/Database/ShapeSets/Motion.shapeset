@@ -1,0 +1,40 @@
+{
+   "partList" : [
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "FFFFFF",
+         "name" : "FlightControlSystem_LF",
+         "physicsMaterial" : "Default",
+         "renderable" : "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_logicgate.rend",
+         "rotationSet" : "Default",
+         "scripted" : {
+            "classname" : "FlightControlSystem_LF",
+            "filename" : "$MOD_DATA/Scripts/Motion/FlightControlSystem/FlightControlSystem_LF.lua"
+         },
+         "showInInventory" : true,
+         "uuid" : "aacc63dd-d1d8-491e-8edc-759d2c7269a4"
+      },
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "color" : "FFFFFF",
+         "name" : "FlightControlSystem_BodyLocator_LF",
+         "physicsMaterial" : "Default",
+         "renderable" : "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_logicgate.rend",
+         "rotationSet" : "Default",
+         "scripted" : {
+            "classname" : "FlightControlSystem_BodyLocator_LF",
+            "filename" : "$MOD_DATA/Scripts/Motion/FlightControlSystem/FlightControlSystem_BodyLocator_LF.lua"
+         },
+         "showInInventory" : true,
+         "uuid" : "38fe2119-f676-4e4f-b1bf-139344d03a8c"
+      }
+   ]
+}

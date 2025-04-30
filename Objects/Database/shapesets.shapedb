@@ -1,0 +1,7 @@
+{
+   "shapeSetList" : [
+      "$CONTENT_DATA/Objects/Database/ShapeSets/FireSystem.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/Motion.shapeset",
+      "$CONTENT_DATA/Objects/Database/ShapeSets/Security.shapeset"
+   ]
+}
